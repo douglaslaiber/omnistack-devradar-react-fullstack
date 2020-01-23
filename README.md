@@ -7,11 +7,15 @@
 
 ## :rocket: Sobre o projeto
 
-Projeto onde através de uma aplicação Web, seria possível cadastrar os Devs com o seu usuário do GitHub. 
+O projeto foi desenvolvido com o objetivo de encontrar outros desenvolvedores através da geolocalização e tecnologias conhecidas.
 
-O Backend fica responsável por armazenar essas informações em uma base de dados do MongoDB, o Express para a criação de rotas, Websocket para trazer os usuários cadastrados em tempo real.
+O desafio inclui:
 
-Na versão Mobile, podemos realizar pesquisas e filtrar as tecnologias que desejamos.
+- Permitir cadastrar desenvolvedores através do login do Github, incluindo as tecnologias que conhecem e sua geolocalização.
+
+- Apartir de um dispositivo mobile permitir realizar pesquisas e filtar os desenvolvedores por tecnologia e poder encontrá-los próximo a localização atual (Um raio de 10km)
+
+- O Backend fica responsável por armazenar essas informações em uma base de dados do MongoDB, o Express para a criação de rotas, Websocket para trazer os usuários cadastrados em tempo real.
 
 ## Tecnologias usadas:
 
