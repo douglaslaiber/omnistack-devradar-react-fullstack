@@ -3,7 +3,7 @@
   Semana Omnistack 10: DevRadar
 </h1>
 
-<img src="frontend/src/assets/screenshot.png" />
+<img src="web/src/assets/screenshot.png" />
 
 ## :rocket: Sobre o projeto
 
